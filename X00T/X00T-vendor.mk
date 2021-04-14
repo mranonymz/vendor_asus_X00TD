@@ -1783,8 +1783,6 @@ PRODUCT_PACKAGES += \
     dpmserviceapp \
     ims \
     qcrilmsgtunnel \
-    HotwordEnrollmentOKGoogleWCD9340 \
-    HotwordEnrollmentXGoogleWCD9340 \
     WfdCommon \
     com.qti.snapdragon.sdk.display \
     vendor.qti.hardware.data.connection-V1.0-java \
