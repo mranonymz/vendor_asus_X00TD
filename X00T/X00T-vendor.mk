@@ -72,7 +72,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/X00T/proprietary/lib/vendor.qti.hardware.qteeconnector@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.qti.hardware.qteeconnector@1.0.so \
     vendor/asus/X00T/proprietary/lib/android.hardware.ir@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib/android.hardware.ir@1.0.so \
     vendor/asus/X00T/proprietary/lib/libsdm-disp-apis.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libsdm-disp-apis.so \
-    vendor/asus/X00T/proprietary/lib64/libavservices_minijail.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libavservices_minijail.so \
     vendor/asus/X00T/proprietary/lib64/fm_helium.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/fm_helium.so \
     vendor/asus/X00T/proprietary/lib64/libdolphin.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libdolphin.so \
     vendor/asus/X00T/proprietary/lib64/libframeextension.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libframeextension.so \
@@ -583,7 +582,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/X00T/proprietary/vendor/lib/libaudioalsa.so:$(TARGET_COPY_OUT_VENDOR)/lib/libaudioalsa.so \
     vendor/asus/X00T/proprietary/vendor/lib/libaudioconfigstore.so:$(TARGET_COPY_OUT_VENDOR)/lib/libaudioconfigstore.so \
     vendor/asus/X00T/proprietary/vendor/lib/libaudioparsers.so:$(TARGET_COPY_OUT_VENDOR)/lib/libaudioparsers.so \
-    vendor/asus/X00T/proprietary/vendor/lib/libavservices_minijail.so:$(TARGET_COPY_OUT_VENDOR)/lib/libavservices_minijail.so \
     vendor/asus/X00T/proprietary/vendor/lib/libbase64.so:$(TARGET_COPY_OUT_VENDOR)/lib/libbase64.so \
     vendor/asus/X00T/proprietary/vendor/lib/libbccQTI.so:$(TARGET_COPY_OUT_VENDOR)/lib/libbccQTI.so \
     vendor/asus/X00T/proprietary/vendor/lib/libbluetooth_audio_session_qti.so:$(TARGET_COPY_OUT_VENDOR)/lib/libbluetooth_audio_session_qti.so \
@@ -1448,7 +1446,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/X00T/proprietary/vendor/lib64/libaudioalsa.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaudioalsa.so \
     vendor/asus/X00T/proprietary/vendor/lib64/libaudioconfigstore.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaudioconfigstore.so \
     vendor/asus/X00T/proprietary/vendor/lib64/libaudioparsers.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaudioparsers.so \
-    vendor/asus/X00T/proprietary/vendor/lib64/libavservices_minijail.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libavservices_minijail.so \
     vendor/asus/X00T/proprietary/vendor/lib64/libbase64.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libbase64.so \
     vendor/asus/X00T/proprietary/vendor/lib64/libbccQTI.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libbccQTI.so \
     vendor/asus/X00T/proprietary/vendor/lib64/libbluetooth_audio_session_qti.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libbluetooth_audio_session_qti.so \
